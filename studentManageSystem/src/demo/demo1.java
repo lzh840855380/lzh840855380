@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class demo1 {
     public static void main(String[] args) {
+        System.out.println("git测试");
         ArrayList<student> studentManageSystem = new ArrayList();
         Scanner sc = new Scanner(System.in);
         while (true) {
